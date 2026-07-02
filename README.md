@@ -1,70 +1,80 @@
-# GitHub Codespaces ♥️ React
+The concept of “Your Name + City Name = Your Luck” is not just philosophical - it is deeply rooted in ancient scriptures and energetic mathematics.
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+Steps;
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+1) mutlipty the letters of our city by four  ex: Mason = 5 letters * 4 = 20
+2) Name: Balasubrahmanyam = 16 letters 
+3) add 20 + 16 = 36
+4) now divided it by 7  i.e. 36/7 
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Remainder 1- good family life amd growth for children 
+Remainder 2- wealth
+Remainder 3- Expenses, demotion
+Remainder 4-Good health and long  life
+Remainder 5- Rise and victory over   enemies
+Remainder 6-Rajyog, success in business
+Remainder 0- Struggle and overall undesirable
 
-This project was bootstrapped for you with [Vite](https://vitejs.dev/).
+Drawing reference from classical texts like Vastu Ratnakar and Muhurta Ratnakar, this video explains how the vibrational value of your name and your city can impact your opportunities, success, and overall life direction.
 
-## Available Scripts
+Shloka Reference:
+ग्रामनामाक्षरं ग्राह्यं चतुर्भिर्गुणयेत्तत: ।
+नरनामाक्षरं योज्यं सप्तभिभार्गमाहरेत् ॥
+वास्तु रत्नाकर, मुहूर्त रत्नाकर
 
-In the project directory, you can run:
+This shloka highlights a unique calculation method where:
 
-### `npm start`
+The letters of your city name are multiplied,
+Combined with the letters of your personal name,
+And then analyzed to understand your fortune alignment.
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+What you’ll learn in this video:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+The hidden science behind names and locations
+How Vedic wisdom evaluates luck through sound and numbers
+Why some places support your growth while others block it
+Practical insight into choosing the right city for success
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+“Your Name + City Name = Your Luck”
+A Classical Numerological Concept from Vastu & Muhurta Shastra
+The concept of “Your Name + City Name = Your Luck” is not merely philosophical—it is rooted in ancient Śāstric principles and energetic mathematics described in classical Indian texts such as Vāstu Ratnākara and Muhūrta Ratnākara.
+This method explains how the vibrational interaction between a person’s name and their place of residence can subtly influence life experiences such as prosperity, health, success, and challenges.
 
-### `npm test`
+✅ Calculation Method
+Let us understand the steps clearly with an example:
+Step 1: City Name
+Count the letters in your city name and multiply by 4
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Example: Mason → 5 letters
+5 × 4 = 20
 
-### `npm run build`
+Step 2: Your Name
+Count the total number of letters in your full name
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Example: Balasubrahmanyam → 16 letters
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Step 3: Add Both Values
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+20 (City value) + 16 (Name value) = 36
 
-## Learn More
+Step 4: Divide by 7
 
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
+36 ÷ 7 = remainder 1
 
-To learn Vitest, a Vite-native testing framework, go to [Vitest documentation](https://vitest.dev/guide/)
+The remainder (Śeṣa) is the final indicator.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🔢 Interpretation of Remainders
 
-### Code Splitting
+🔔 Important Perspective
+This method is indicative, not deterministic.
+Śāstra repeatedly emphasizes that:
 
-This section has moved here: [https://sambitsahoo.com/blog/vite-code-splitting-that-works.html](https://sambitsahoo.com/blog/vite-code-splitting-that-works.html)
+Dharma, Karma, Bhakti, and Divine Grace
+always supersede numerical outcomes.
 
-### Analyzing the Bundle Size
+This calculation is best used as:
 
-This section has moved here: [https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
-
-### Advanced Configuration
-
-This section has moved here: [https://vitejs.dev/guide/build.html#advanced-base-options](https://vitejs.dev/guide/build.html#advanced-base-options)
-
-### Deployment
-
-This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
-
-### Troubleshooting
-
-This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+a guidance tool
+for muhurta considerations
+or for understanding energetic alignment,
+not as a source of fear or rigid conclusions.
