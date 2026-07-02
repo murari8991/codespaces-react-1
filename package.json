@@ -1,6 +1,7 @@
 {
   "name": "codespaces-react",
   "version": "0.1.0",
+  "homepage": "https://murari8991.github.io/City-Name-Phala/",
   "private": true,
   "type": "module",
   "dependencies": {
